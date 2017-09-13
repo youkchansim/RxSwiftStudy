@@ -90,7 +90,7 @@ var currentIndex = 0
 ```
 RxSwift는 전통적으로 필수적인 코코아 코드와 순수한 기능 코드 사이의 적절한 위치를 찾음. 불변의 코드 정의를 사용하여 비동기 적으로 입력 부분을 결정적이고 구성 가능한 방식으로 처리함으로써 이벤트에 대응할 수 있음.
 ```
-Rx에 대한 내용은 [reativex](http://reactivex.io)를 참고.
+Rx에 대한 내용은 [reactivex](http://reactivex.io)를 참고.
 소름돋는건 RxSwift의 대표 아이콘은 전기 뱀장어임.
 Rx 코드의 빌딩 블럭에는 `observables`, `operators`, `scheduler`가 있음.
 
