@@ -27,7 +27,7 @@ PublishSubject와는 다르게 2번째 구독자는 구독시점 이전에 발�
 
 ```
 집고 넘어가자! 그러면 BehaviorSubject는 언제사용하느냐!
-얘는 만들 때 default initial value가 필요 없다는것을 알아야 함. 음.. 어느 구독 시점이 이벤트 발행시점보다 느린데 default initial value를 반드시 구독해야 하는 경우! PublishSubject보다는 이 BehaviorSubject를 사용하는것이 더 의미있을 수 있음!
+음.. 어느 구독 시점이 이벤트 발행시점보다 느린데 default initial value를 반드시 구독해야 하는 경우! PublishSubject보다는 이 BehaviorSubject를 사용하는것이 더 의미있을 수 있음!
 ```
 
 ## ReplaySubject
